@@ -28,6 +28,7 @@ A collection of beginner-friendly JavaScript projects built to practice programm
 | 18 | BMI Calculator | [Open Project](https://codepen.io/gohil-abhijitsinh/pen/OPWWjpg) |
 | 19 | Movie Ticket Price Calculator | [Open Project](https://codepen.io/gohil-abhijitsinh/pen/WbRREjz) |
 
+video link: https://drive.google.com/file/d/1Q3WHsEqw6zco2z_PmbP2EDDmet655jyV/view?usp=sharing
 ---
 
 ## 🛠️ Technologies Used
